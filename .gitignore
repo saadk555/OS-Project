@@ -1,3 +1,12 @@
+/data_cleaning.py
+/main.py
+/test.csv
+/test.py
+/requirements.txt
+os_project.code-workspace
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -159,4 +168,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
 ckd-dataset-v2.csv
+end-to-end-heart-disease-classification_1.ipynb
+1.py
+1.ipynb
