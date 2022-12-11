@@ -4,6 +4,12 @@
 /test.py
 /requirements.txt
 os_project.code-workspace
+sklearn-venv/
+
+
+
+
+
 
 
 
@@ -172,4 +178,3 @@ cython_debug/
 ckd-dataset-v2.csv
 end-to-end-heart-disease-classification_1.ipynb
 1.py
-1.ipynb
